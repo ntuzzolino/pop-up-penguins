@@ -22,18 +22,21 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
-}.penguin2:hover {
+}
+.penguin2:hover {
     background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
     cursor: pointer;
 }
 .penguin2:active {
     background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
 }
-}.penguin2 {
+.penguin2 {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
 }.penguin3:hover {
     background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
@@ -46,6 +49,7 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
 } 
 .penguin4:hover {
@@ -59,6 +63,7 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
     } 
 .penguin5:hover {
@@ -71,6 +76,7 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
     } 
 .penguin6:hover {
@@ -83,6 +89,7 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
     } 
 .penguin7:hover {
@@ -95,6 +102,7 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
     } 
 .penguin8:hover {
@@ -108,17 +116,22 @@ body {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
 }
 .yeti:hover {
     background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
     cursor: pointer; 
-} yeti:active {
+    
+} .yeti:active {
+   
     background-image:url('http://yetiograch.pl/wp-content/uploads/2015/04/YETIfor-yeti.png');
+    
 }
-}.yeti {
+.yeti {
     width: 200px;
     height: 200px;
     float: left;
+    background-size: contain;
     background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
 }
