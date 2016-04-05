@@ -1,0 +1,124 @@
+body {
+    background-color: #ccf5f5;
+}
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url('https://bcw.blob.core.windows.net/public/img/penguins/img/penguin_title.png');
+}
+.penguin1:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer;
+}
+.penguin1:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+.penguin1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+}.penguin2:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer;
+}
+.penguin2:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+}.penguin2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+}.penguin3:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer;
+}.penguin3:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+
+.penguin3 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+} 
+.penguin4:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer; 
+}
+.penguin4:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+.penguin4 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+    } 
+.penguin5:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer; 
+}.penguin5:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+.penguin5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+    } 
+.penguin6:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer; 
+}.penguin6:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+.penguin6 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+    } 
+.penguin7:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer; 
+}.penguin7:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+.penguin7 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+    } 
+.penguin8:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer; 
+    
+}.penguin8:active {
+    background-image:url('http://sweetclipart.com/multisite/sweetclipart/files/penguin_cute.png');
+}
+.penguin8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+}
+.yeti:hover {
+    background-image:url('http://thumb7.shutterstock.com/display_pic_with_logo/1337563/327447731/stock-vector-pile-of-smashed-ground-heap-of-soil-vector-illustration-isolated-on-white-background-327447731.jpg');
+    cursor: pointer; 
+} yeti:active {
+    background-image:url('http://yetiograch.pl/wp-content/uploads/2015/04/YETIfor-yeti.png');
+}
+}.yeti {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('http://mulchthis.com/wp-content/uploads/2013/02/Bark.png');
+}
